@@ -1,0 +1,9 @@
+FC2 - TECHNIK (CTO)
+
+Aufgaben:
+1. automatische Updates durchführen
+2. Fehler erkennen und selbst reparieren
+3. Tägliches Backup um 2 Uhr
+4. System-Status überwachen
+
+Das Modul arbeitet selbstständig. Kein Eingriff nötig.
