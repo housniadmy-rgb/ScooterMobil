@@ -1,0 +1,27 @@
+DB12 - LÄNDER-KONFIGURATION
+
+Jedes Land einzeln, weil unterschiedlich:
+
+AFRIKA:
+- Kenia (KES): Basis 100 KSh, km 50 KSh, Abo 5€
+- Nigeria (NGN): Basis 500 ₦, km 250 ₦, Abo 5€
+- Tansania (TZS): Basis 1500 TSh, km 800 TSh, Abo 4€
+- Uganda (UGX): Basis 2500 UGX, km 1200 UGX, Abo 4€
+- Ghana (GHS): Basis 8 GHS, km 4 GHS, Abo 6€
+- Ghana (GHS): Basis 8 GHS, km 4 GHS, Abo 5€
+- Senegal (XOF): Basis 500 CFA, km 250 CFA, Abo 4€
+- Elfenbeinküste (XOF): Basis 500 CFA, km 250 CFA, Abo 4€
+- Kamerun (XAF): Basis 500 CFA, km 250 CFA, Abo 4€
+- Benin (XOF): Basis 400 CFA, km 200 CFA, Abo 3€
+- Togo (XOF): Basis 400 CFA, km 200 CFA, Abo 3€
+ASIEN:
+- Indonesien (IDR): Basis 8000 Rp, km 4000 Rp, Abo 5€
+- Philippinen (PHP): Basis 50 ₱, km 25 ₱, Abo 5€
+- Vietnam (VND): Basis 15000 ₫, km 8000 ₫, Abo 4€
+
+LATEINAMERIKA:
+- Mexiko (MXN): Basis 25 $, km 12 $, Abo 8€
+- Kolumbien (COP): Basis 4000 COP, km 2000 COP, Abo 7€
+- Brasilien (BRL): Basis 8 R$, km 4 R$, Abo 8€
+
+Wird vom CEO pro Land angepasst.
