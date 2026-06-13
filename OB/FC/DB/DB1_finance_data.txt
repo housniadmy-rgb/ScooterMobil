@@ -1,0 +1,3 @@
+DB1 - FINANZDATEN
+Enthält: Umsatz, Abos, Zahlungen
+Erstellt: 13.06.2026
