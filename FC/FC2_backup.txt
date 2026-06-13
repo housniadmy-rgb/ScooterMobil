@@ -1,0 +1,11 @@
+FC2_BACKUP - AUTOMATISCHES BACKUP
+
+JEDEN TAG UM 2 UHR:
+1. Speichert alle Fahrerdaten (DB10)
+2. Speichert alle Buchungen (DB11)
+3. Speichert alle Einnahmen (DB1)
+4. Lädt nach GitHub hoch
+
+BEI FEHLER:
+- Wiederholt 2x
+- Dann Meldung an CEO
