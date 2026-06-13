@@ -1,0 +1,15 @@
+DB11 - BUCHUNGSDATENBANK
+
+Speichert pro Fahrt:
+- Fahrer-ID
+- Kundentelefonnummer
+- Abholort, Zielort
+- Preis
+- Datum und Start-Uhrzeit
+- Fahrten-Nummer im Monat (1,2,3...)
+
+Für Abomodell:
+- Fahrt 1-10: kostenlos
+- Ab Fahrt 11: nur wenn Fahrer bezahlt hat
+
+Reset am 1. jedes Monats.
