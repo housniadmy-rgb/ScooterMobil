@@ -1,0 +1,10 @@
+FC4 - VERTRIEB (Sales)
+
+Aufgaben:
+1. Neue Leads automatisch kontaktieren
+2. Angebote per WhatsApp und Email senden
+3. Follow-Up nach 3, 7, 14 Tagen
+4. Bei Zahlung: Fahrer automatisch aktivieren
+5. Verlorene Leads analysieren
+
+Arbeitet vollautomatisch.
