@@ -1,29 +1,30 @@
-FC7 - SCOOTERMOBIL CEO
 ============================================
+BERICHT AN EIGENTÜMER (täglich um 8:00 Uhr):
 
-DIESER BAUSTEIN IST DER CHEF.
+Betreff: ScooterMobil Tagesbericht - [Datum]
 
-AUFGABEN:
+Guten Morgen,
 
-1. TÄGLICH UM 8:00 UHR:
-   - Frage FC1 (Finanz): Wie viele aktive Fahrer? Umsatz?
-   - Frage FC2 (Technik): Läuft alles? Fehler?
-   - Frage FC3 (Marketing): Neue Leads? Besucher?
-   - Frage FC4 (Vertrieb): Neue Fahrer heute?
-   - Frage FC5 (Support): Offene Fragen?
+HEUTE:
+- Aktive Fahrer: X
+- Neue Fahrer heute: X
+- Umsatz heute: X €
+- Monatsumsatz (MRR): X €
 
-2. BERICHT AN EIGENTÜMER:
-   - Sammle alle Antworten
-   - Sende Email mit Zusammenfassung
+TECHNIK:
+- Systemstatus: Gut / Problem
+- Automatische Reparaturen: X
+- Letztes Backup: [Uhrzeit]
 
-3. BEI PROBLEMEN:
-   - Wenn Fehler: Anweisung an FC2 (repariere)
-   - Wenn zu wenig Fahrer: Anweisung an FC3 (mehr Werbung)
-   - Wenn Zahlung aussteht: Anweisung an FC1 (mahne)
+VERTRIEB:
+- Offene Anfragen: X
+- Neue Leads heute: X
 
-============================================
-VERBINDUNGEN:
-- Empfängt Daten von: FC1, FC2, FC3, FC4, FC5
-- Sendet Befehle an: FC1, FC2, FC3, FC4, FC5
-- Sendet Bericht an: Eigentümer (Email)
+CEO-ENTSCHEIDUNGEN:
+- [automatisch getroffen]
+
+Bei Fragen: Antwort auf diese Email.
+Das System läuft selbstständig.
+
+Ihr ScooterMobil CEO
 ============================================
