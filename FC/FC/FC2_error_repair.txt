@@ -1,0 +1,20 @@
+FC2_ERROR_REPAIR - AUTOMATISCHE REPARATUR
+
+WENN FEHLER AUFTRITT:
+
+1. FEHLER ART BESTIMMEN:
+   - Verbindungsfehler: Neuverbindung versuchen
+   - Timeout: Warten und wiederholen
+   - Datenbankfehler: Backup einspielen
+   - App-Absturz: Neustart
+
+2. MAXIMAL 3 VERSUCHE
+
+3. WENN NICHT REPARIERT:
+   - An CEO melden
+   - Problem in Liste speichern
+
+BEHEBBARE FEHLER (automatisch):
+- Server nicht erreichbar → Neustart
+- Zahlung fehlgeschlagen → Wiederholen
+- App hängt → Cache leeren
