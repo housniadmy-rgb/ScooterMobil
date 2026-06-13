@@ -15,3 +15,16 @@ ZAHLUNGSMETHODEN PRO LAND:
 - Mexiko, Kolumbien, Brasilien: Mercado Pago
 
 KEIN BARGELD. KEIN KONTAKT. ALLES DIGITAL.
+============================================
+VERBINDUNG ZU ANDEREN DATEIEN:
+
+Diese Datei arbeitet mit:
+- DB11_bookings.txt (liest Fahrten-Zähler)
+- DB12_config.txt (liest Preise pro Land)
+- DB10_drivers.txt (speichert Abo-Status)
+
+WENN Fahrt gebucht wird:
+1. Lese Fahrten-Zähler aus DB11_bookings
+2. Wenn Zähler <= 10: Fahrt kostenlos
+3. Wenn Zähler > 10: Prüfe Abo-Status in DB10_drivers
+4. Wenn Abo abgelaufen: Keine Fahrt möglich
