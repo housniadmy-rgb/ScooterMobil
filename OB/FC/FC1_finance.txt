@@ -1,3 +1,17 @@
 FC1 - FINANZ (CFO)
-Verantwortlich für: Abos, Rechnungen, Zahlungen
-Erstellt am: 13.06.2026
+
+AUFGABEN:
+- Erste 10 Fahrten pro Monat: kostenlos
+- Danach: Fahrer zahlt 5-10€ pro Monat
+- Zahlungen NUR online: M-Pesa, Mercado Pago, Mobile Money
+- Du hast keinen Kontakt mit Fahrern. Alles automatisch.
+
+ZAHLUNGSMETHODEN PRO LAND:
+- Kenia, Tansania, Uganda: M-Pesa
+- Ghana: MTN Mobile Money
+- Senegal: Orange Money
+- Indonesien: DANA, GoPay
+- Philippinen: GCash
+- Mexiko, Kolumbien, Brasilien: Mercado Pago
+
+KEIN BARGELD. KEIN KONTAKT. ALLES DIGITAL.
