@@ -1,2 +1,28 @@
-OB1 - Hauptbaustein für ScooterMobil
-Erstellt am: 13.06.2026
+OB1 - HAUPTSTEUERUNG
+============================================
+
+Dieser Baustein startet alle Abteilungen automatisch.
+
+ABLAUF:
+
+1. Jede Stunde prüfen:
+   - Läuft alles? (Technik-Check)
+
+2. Jeden Tag um 8:00 Uhr:
+   - CEO sammelt Berichte von allen Abteilungen
+   - CEO sendet Bericht an Eigentümer
+
+3. Bei jeder Buchung:
+   - Finanz prüft: Kostenlos oder bezahlt?
+   - Vertrieb kümmert sich um neue Fahrer
+
+4. Bei Fehlern:
+   - Technik repariert automatisch
+
+AUFRUF DER ABTEILUNGEN:
+- FC1 (Finanz) → jede Buchung
+- FC2 (Technik) → jede Stunde
+- FC3 (Marketing) → einmal täglich
+- FC4 (Vertrieb) → bei neuen Leads
+- FC5 (Support) → bei Fragen
+- FC7 (CEO) → um 8:00 Uhr
