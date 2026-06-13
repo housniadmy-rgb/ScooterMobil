@@ -1,0 +1,9 @@
+FC5 - SUPPORT
+
+Aufgaben:
+1. Chatbot beantwortet 80% der Fragen
+2. Tickets automatisch kategorisieren
+3. FAQ automatisch erweitern
+4. Bei kritischen Tickets: Benachrichtigung an CEO
+
+Arbeitet vollautomatisch.
