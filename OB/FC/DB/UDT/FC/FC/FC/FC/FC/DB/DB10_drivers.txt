@@ -1,10 +1,21 @@
 DB10 - FAHRERDATENBANK
+============================================
 
-Enthält für jeden Fahrer:
-- ID, Name, Telefonnummer
-- Land, Stadt
-- Aktiv? Verifiziert?
+SPEICHERT PRO FAHRER:
+
+- ID (eindeutige Nummer)
+- Name
+- Telefonnummer
+- Land
+- Stadt
+- Aktiv? (Ja/Nein)
+- Verifiziert? (Ja/Nein)
 - Bezahlt bis (Datum)
-- Anzahl Fahrten, Bewertung
+- Anzahl Fahrten diesen Monat
+- Bewertung (1-5 Sterne)
 
-Keine feste Grenze. Wächst dynamisch mit Firebase.
+============================================
+VERBINDUNGEN:
+- Gelesen von: FC1 (Finanz), FC4 (Vertrieb)
+- Geschrieben von: FC1 (nach Zahlung), FC4 (neuer Fahrer)
+============================================
