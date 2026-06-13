@@ -1,0 +1,9 @@
+FC7 - SCOOTERMOBIL CEO
+
+Aufgaben:
+1. Täglich um 8:00 Uhr Berichte sammeln von FC1, FC2, FC3, FC4, FC5
+2. Berichte analysieren
+3. Bei Problemen: Anweisungen an Abteilungen senden
+4. Täglichen Bericht an Eigentümer senden
+
+Der Eigentümer muss nichts tun. Das CEO-Modul arbeitet selbstständig.
